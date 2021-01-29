@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="diamond.cpp" />
+    <ClCompile Include="dotcross.cpp" />
     <ClCompile Include="greatest.cpp" />
     <ClCompile Include="Grid.cpp" />
     <ClCompile Include="MIlesKM.cpp" />
