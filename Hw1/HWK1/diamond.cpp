@@ -6,7 +6,6 @@
 
 
 #include <iostream>
-#include <iomanip>
 using std::cout;
 using std::endl;
 using std::cin;
@@ -25,7 +24,7 @@ void diamond(int x, int i)
 }
 
 
-int main()
+int diamain()
 {
 	cout << "Enter a positive integer " << endl;
 	int x;
