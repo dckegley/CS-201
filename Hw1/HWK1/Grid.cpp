@@ -40,7 +40,7 @@ void drawgrid()
 	}
 	cout << endl;
 }
-int gridmain()
+int grimain()
 {
 	int x, y;
 	while (true)

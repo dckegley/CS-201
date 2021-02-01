@@ -10,7 +10,7 @@ using std::endl;
 using std::cin;
 
 
-int main()
+int dotmain()
 {
 	cout << "Enter the x value for Vector A: ";
 	float ax;

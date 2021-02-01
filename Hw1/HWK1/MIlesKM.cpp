@@ -5,7 +5,7 @@
 
 #include <iostream>
 
-int mikmmain()
+int main()
 {
 	int mi;
 	std::cout << "Miles to Kilometers converter" << std::endl;
