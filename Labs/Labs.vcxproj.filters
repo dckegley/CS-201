@@ -13,5 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Lab 05">
+      <UniqueIdentifier>{cb492ace-5a4b-4777-b0bd-b89596e6d1c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 06">
+      <UniqueIdentifier>{7a1c772d-ac81-408c-9216-75b131258054}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Lab 05.cpp">
+      <Filter>Source Files\Lab 05</Filter>
+    </ClCompile>
+    <ClCompile Include="lab 06.cpp">
+      <Filter>Source Files\Lab 06</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
