@@ -26,7 +26,7 @@ void func(string user_input)
 }
 
 
-int main()
+int l6main()
 {
 	cout << "Please enter a string: ";
 	cin >> user_input;

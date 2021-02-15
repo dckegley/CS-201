@@ -19,6 +19,21 @@
     <Filter Include="Source Files\Lab 06">
       <UniqueIdentifier>{7a1c772d-ac81-408c-9216-75b131258054}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Lab 07">
+      <UniqueIdentifier>{b447471e-5495-45c3-95dd-7e9257ec60d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 8">
+      <UniqueIdentifier>{31ca1b28-f614-426a-b7ac-31e0c5f51b70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 9">
+      <UniqueIdentifier>{221fef22-7a63-41cb-8c3d-44366cf168bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 10">
+      <UniqueIdentifier>{c57e5961-17b3-4ea1-9bef-7f971fb2b1e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 11">
+      <UniqueIdentifier>{5a134a8e-2a56-430a-a3b1-c0cdfa227f8c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Lab 05.cpp">
@@ -27,5 +42,40 @@
     <ClCompile Include="lab 06.cpp">
       <Filter>Source Files\Lab 06</Filter>
     </ClCompile>
+    <ClCompile Include="inito.cpp">
+      <Filter>Source Files\Lab 07</Filter>
+    </ClCompile>
+    <ClCompile Include="L7main.cpp">
+      <Filter>Source Files\Lab 07</Filter>
+    </ClCompile>
+    <ClCompile Include="lab8.cpp">
+      <Filter>Source Files\Lab 8</Filter>
+    </ClCompile>
+    <ClCompile Include="lab8_main.cpp">
+      <Filter>Source Files\Lab 8</Filter>
+    </ClCompile>
+    <ClCompile Include="modifyString.cpp">
+      <Filter>Source Files\Lab 9</Filter>
+    </ClCompile>
+    <ClCompile Include="Bool.cpp">
+      <Filter>Source Files\Lab 10</Filter>
+    </ClCompile>
+    <ClCompile Include="Chars.cpp">
+      <Filter>Source Files\Lab 11</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="intio.hpp">
+      <Filter>Source Files\Lab 07</Filter>
+    </ClInclude>
+    <ClInclude Include="lab8.hpp">
+      <Filter>Source Files\Lab 8</Filter>
+    </ClInclude>
+    <ClInclude Include="modifyString.hpp">
+      <Filter>Source Files\Lab 9</Filter>
+    </ClInclude>
+    <ClInclude Include="Bool.hpp">
+      <Filter>Source Files\Lab 10</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
