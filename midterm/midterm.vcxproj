@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b0d2166f-a419-4900-9705-b75270a64b4e}</ProjectGuid>
-    <RootNamespace>Labs</RootNamespace>
+    <ProjectGuid>{adec4c32-3343-444e-b619-dd1bd3d59dd7}</ProjectGuid>
+    <RootNamespace>midterm</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,57 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Bool.cpp" />
-    <ClCompile Include="Chars.cpp" />
-    <ClCompile Include="floating_point.cpp" />
-    <ClCompile Include="floating_point_main.cpp" />
-    <ClCompile Include="inito.cpp" />
-    <ClCompile Include="insertion_sort.cpp" />
-    <ClCompile Include="insertion_sort_main.cpp" />
-    <ClCompile Include="L7main.cpp" />
-    <ClCompile Include="Lab 05.cpp" />
-    <ClCompile Include="lab 06.cpp" />
-    <ClCompile Include="Lab25.cpp" />
-    <ClCompile Include="lab8.cpp" />
-    <ClCompile Include="lab8_main.cpp" />
-    <ClCompile Include="lambdas.cpp" />
-    <ClCompile Include="lambdas_main.cpp" />
-    <ClCompile Include="lookup.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="lookup2.cpp" />
-    <ClCompile Include="map.cpp" />
-    <ClCompile Include="modifyString.cpp" />
-    <ClCompile Include="pointers.cpp" />
-    <ClCompile Include="print_cos.cpp" />
-    <ClCompile Include="readfile.cpp" />
-    <ClCompile Include="rng.cpp" />
-    <ClCompile Include="search_compare.cpp" />
-    <ClCompile Include="STL.cpp" />
-    <ClCompile Include="Str_source.cpp" />
-    <ClCompile Include="Str_source_main.cpp" />
-    <ClCompile Include="text.cpp" />
-    <ClCompile Include="triangle.cpp" />
-    <ClCompile Include="truncstruct.cpp" />
-    <ClCompile Include="truncstruct_main.cpp" />
-    <ClCompile Include="UserInput.cpp" />
-    <ClCompile Include="userInputMain.cpp" />
-    <ClCompile Include="vector_mainip.cpp" />
-    <ClCompile Include="vector_mainip_main.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Bool.hpp" />
-    <ClInclude Include="floating_point.hpp" />
-    <ClInclude Include="insertion_sort.hpp" />
-    <ClInclude Include="intio.hpp" />
-    <ClInclude Include="lab8.hpp" />
-    <ClInclude Include="lambdas.hpp" />
-    <ClInclude Include="modifyString.hpp" />
-    <ClInclude Include="Str_source.hpp" />
-    <ClInclude Include="triangle.hpp" />
-    <ClInclude Include="truncstruct.hpp" />
-    <ClInclude Include="userInput.hpp" />
-    <ClInclude Include="vector_mainip.hpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

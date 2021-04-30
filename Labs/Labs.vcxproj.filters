@@ -34,6 +34,63 @@
     <Filter Include="Source Files\Lab 11">
       <UniqueIdentifier>{5a134a8e-2a56-430a-a3b1-c0cdfa227f8c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Lab 12">
+      <UniqueIdentifier>{4bfbc795-8fbd-4cd9-bf7e-d543e504fc7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 13">
+      <UniqueIdentifier>{50f522e8-f572-448f-b1a9-124b1b2d953d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 14">
+      <UniqueIdentifier>{cf9b0a6c-3be6-4a30-8243-eff3ea0c7a6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 15">
+      <UniqueIdentifier>{f66dd9ad-b717-4ed5-a68f-c7d670b20a48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 16">
+      <UniqueIdentifier>{90276e64-ce54-47d1-bf1a-f73beb7f4468}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 17">
+      <UniqueIdentifier>{3638230f-c07b-4fff-a0b0-7d04f25ca0fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 18">
+      <UniqueIdentifier>{2e18c985-3e18-4b4a-b1a0-5c1d4b436627}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 19">
+      <UniqueIdentifier>{b401a6e4-a769-484a-a1d4-9d8334ca4c22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 20">
+      <UniqueIdentifier>{7b2ace87-794a-447d-b10c-24361d5761a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 21">
+      <UniqueIdentifier>{c200e701-80b6-4b8b-9cbc-c9c0645ed437}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 22">
+      <UniqueIdentifier>{c48b8d06-7069-4058-b936-c582b4c8e643}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 23">
+      <UniqueIdentifier>{e456f92e-76c7-47d4-a44e-96e781e0dd5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 24">
+      <UniqueIdentifier>{9eb1b56d-3b5b-4692-a70a-9d1a9a9a5c68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 25">
+      <UniqueIdentifier>{20ecb978-5e5a-4820-aba9-88dd4a148340}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 26">
+      <UniqueIdentifier>{ed05cb93-b19e-45c2-a141-488677b85c0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 27">
+      <UniqueIdentifier>{3efdd5ee-d948-4b19-b74a-257292ae4cae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 29">
+      <UniqueIdentifier>{df149a8d-b143-47d7-a1c4-0b07341449d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 28">
+      <UniqueIdentifier>{599b45e7-0f93-417e-afd1-a7f7d401634f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab 30">
+      <UniqueIdentifier>{22033c16-bd5b-43ad-b92e-6802a61cced1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Lab 05.cpp">
@@ -63,6 +120,84 @@
     <ClCompile Include="Chars.cpp">
       <Filter>Source Files\Lab 11</Filter>
     </ClCompile>
+    <ClCompile Include="userInputMain.cpp">
+      <Filter>Source Files\Lab 12</Filter>
+    </ClCompile>
+    <ClCompile Include="UserInput.cpp">
+      <Filter>Source Files\Lab 12</Filter>
+    </ClCompile>
+    <ClCompile Include="vector_mainip.cpp">
+      <Filter>Source Files\Lab 13</Filter>
+    </ClCompile>
+    <ClCompile Include="vector_mainip_main.cpp">
+      <Filter>Source Files\Lab 13</Filter>
+    </ClCompile>
+    <ClCompile Include="triangle.cpp">
+      <Filter>Source Files\Lab 14</Filter>
+    </ClCompile>
+    <ClCompile Include="Str_source.cpp">
+      <Filter>Source Files\Lab 15</Filter>
+    </ClCompile>
+    <ClCompile Include="Str_source_main.cpp">
+      <Filter>Source Files\Lab 15</Filter>
+    </ClCompile>
+    <ClCompile Include="lookup.cpp">
+      <Filter>Source Files\Lab 16</Filter>
+    </ClCompile>
+    <ClCompile Include="search_compare.cpp">
+      <Filter>Source Files\Lab 17</Filter>
+    </ClCompile>
+    <ClCompile Include="insertion_sort.cpp">
+      <Filter>Source Files\Lab 18</Filter>
+    </ClCompile>
+    <ClCompile Include="insertion_sort_main.cpp">
+      <Filter>Source Files\Lab 18</Filter>
+    </ClCompile>
+    <ClCompile Include="floating_point_main.cpp">
+      <Filter>Source Files\Lab 19</Filter>
+    </ClCompile>
+    <ClCompile Include="floating_point.cpp">
+      <Filter>Source Files\Lab 19</Filter>
+    </ClCompile>
+    <ClCompile Include="print_cos.cpp">
+      <Filter>Source Files\Lab 20</Filter>
+    </ClCompile>
+    <ClCompile Include="truncstruct.cpp">
+      <Filter>Source Files\Lab 21</Filter>
+    </ClCompile>
+    <ClCompile Include="truncstruct_main.cpp">
+      <Filter>Source Files\Lab 21</Filter>
+    </ClCompile>
+    <ClCompile Include="lookup2.cpp">
+      <Filter>Source Files\Lab 22</Filter>
+    </ClCompile>
+    <ClCompile Include="map.cpp">
+      <Filter>Source Files\Lab 23</Filter>
+    </ClCompile>
+    <ClCompile Include="STL.cpp">
+      <Filter>Source Files\Lab 24</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab25.cpp">
+      <Filter>Source Files\Lab 25</Filter>
+    </ClCompile>
+    <ClCompile Include="lambdas_main.cpp">
+      <Filter>Source Files\Lab 26</Filter>
+    </ClCompile>
+    <ClCompile Include="lambdas.cpp">
+      <Filter>Source Files\Lab 26</Filter>
+    </ClCompile>
+    <ClCompile Include="rng.cpp">
+      <Filter>Source Files\Lab 27</Filter>
+    </ClCompile>
+    <ClCompile Include="text.cpp">
+      <Filter>Source Files\Lab 28</Filter>
+    </ClCompile>
+    <ClCompile Include="readfile.cpp">
+      <Filter>Source Files\Lab 29</Filter>
+    </ClCompile>
+    <ClCompile Include="pointers.cpp">
+      <Filter>Source Files\Lab 30</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="intio.hpp">
@@ -76,6 +211,30 @@
     </ClInclude>
     <ClInclude Include="Bool.hpp">
       <Filter>Source Files\Lab 10</Filter>
+    </ClInclude>
+    <ClInclude Include="userInput.hpp">
+      <Filter>Source Files\Lab 12</Filter>
+    </ClInclude>
+    <ClInclude Include="vector_mainip.hpp">
+      <Filter>Source Files\Lab 13</Filter>
+    </ClInclude>
+    <ClInclude Include="triangle.hpp">
+      <Filter>Source Files\Lab 14</Filter>
+    </ClInclude>
+    <ClInclude Include="Str_source.hpp">
+      <Filter>Source Files\Lab 15</Filter>
+    </ClInclude>
+    <ClInclude Include="insertion_sort.hpp">
+      <Filter>Source Files\Lab 18</Filter>
+    </ClInclude>
+    <ClInclude Include="floating_point.hpp">
+      <Filter>Source Files\Lab 19</Filter>
+    </ClInclude>
+    <ClInclude Include="truncstruct.hpp">
+      <Filter>Source Files\Lab 21</Filter>
+    </ClInclude>
+    <ClInclude Include="lambdas.hpp">
+      <Filter>Source Files\Lab 26</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

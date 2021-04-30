@@ -14,7 +14,7 @@ bool isDiv3(int n)
 	
 }
 
-int main()
+int l10main()
 {
 	for (int i = 1; i <= 40; i++)
 	{
